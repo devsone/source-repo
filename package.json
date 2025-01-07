@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "sync": "sync command goes here"
+    "sync": "git push -u git@github.com:devsone/target-repo.git sync-pipe"
   },
   "keywords": [],
   "author": "",
